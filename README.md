@@ -1,0 +1,2 @@
+# Rock-Paper-Scissor-GUI
+The "GUI-based Rock-Paper-Scissors Game" is a visually appealing and interactive software application created with the Python Tkinter library. The game follows the traditional principles of Rock-Paper-Scissors, in which two players compete by choosing between rock, paper, and scissors. The Tkinter library provides the graphical user interface (GUI) components required to create an engaging and user-friendly gaming experience.
